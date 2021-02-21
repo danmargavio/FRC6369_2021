@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project Example-Swerve-master)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Example-Swerve-master",
+    "language": "java"
+  }
+]
